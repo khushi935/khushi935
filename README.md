@@ -35,6 +35,7 @@ I have excellent design & coding skills, as well as an ability to convert requir
 <a href="https://github.com/khushi935" align="right">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khushi935&layout=compact" />
 </a>
+
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
@@ -43,6 +44,8 @@ I have excellent design & coding skills, as well as an ability to convert requir
 <a href="https://khushipatidar9.medium.com/"><img alt="Email" src="https://img.shields.io/badge/blog-khushipatidar9.medium.com-blue?style=flat&logo=blog"></a>                                                                                                                                           
 </p>
 
+<h4 align="center">Visitor's count :eyes:</h4>
+<p align="center"><img src="https://profile-counter.glitch.me/{khushi935}/count.svg" alt="khushi935 :: Visitor's Count" /></p>
 
 ⭐️⭐️⭐️⭐️
 
