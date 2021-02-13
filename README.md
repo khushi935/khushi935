@@ -35,13 +35,14 @@ I have excellent design & coding skills, as well as an ability to convert requir
 <a href="https://github.com/khushi935" align="right">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khushi935&layout=compact" />
 </a>
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=khushi935" alt="khushi935" /></p>
 
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/khushi-patidar-129367191/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@khushi-blue?style=flat&logo=linkedin"></a>
 <a href="khushipatidar9@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-khushipatidar9@gmail.com-blue?style=flat&logo=gmail"></a>
-<a href="https://khushipatidar9.medium.com/"><img alt="Email" src="https://img.shields.io/badge/blog-khushipatidar9.medium.com-blue?style=flat&logo=blog"></a>                                                                                                                                           
+<a align="center" href="https://khushipatidar9.medium.com/"><img alt="Email" src="https://img.shields.io/badge/blog-khushipatidar9.medium.com-blue?style=flat&logo=blog"></a>                                                                                                                                           
 </p>
 
 <h4 align="center">Visitor's count :eyes:</h4>
